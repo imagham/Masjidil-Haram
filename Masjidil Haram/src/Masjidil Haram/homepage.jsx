@@ -57,8 +57,8 @@ function Herosection() {
             <Link to="/About" className="hover:text-blue-300 transition">
               About
             </Link>
-            <a href="#" className="hover:text-blue-300 transition">
-              Services
+            <a href="/galery" className="hover:text-blue-300 transition">
+              Galery
             </a>
           </nav>
 
